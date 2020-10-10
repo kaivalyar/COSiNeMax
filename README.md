@@ -1,5 +1,5 @@
 # COSiNeMax
-Code, Datasets, and Slides complementing the paper "Maximizing Contrasting Opinions in Signed Social Networks"
+Code, Datasets, and Slides complementing the paper **Maximizing Contrasting Opinions in Signed Social Networks**: [https://doi.org/10.1109/BigData47090.2019.9005619](https://doi.org/10.1109/BigData47090.2019.9005619)
 
 ## Redirect (temporary)
 While this repository is being set up, please use the following links to access the materials:
